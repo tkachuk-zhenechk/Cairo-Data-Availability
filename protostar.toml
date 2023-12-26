@@ -1,0 +1,9 @@
+["protostar.config"]
+protostar_version = "1.0.0"
+
+["protostar.project"]
+libs_path = "lib"
+
+["protostar.contracts"]
+main = [
+]
