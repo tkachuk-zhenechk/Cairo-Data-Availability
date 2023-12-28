@@ -40,6 +40,7 @@ poll()
 contains(val: felt)
 size()
 Examples
+
 Explore usage examples in the respective test files: set_test.cairo, queue_test.cairo, and min_heap_test.cairo (Using Protostar).
 
 Feel free to contribute, provide feedback, or leverage these data structures for your Cairo projects!
