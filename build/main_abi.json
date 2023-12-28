@@ -19,7 +19,7 @@
                 "type": "felt"
             }
         ],
-        "stateMutability": "view",
+        "stateMutability": "view1",
         "type": "function"
     },
     {
