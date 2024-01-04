@@ -13,7 +13,7 @@ d
  from src.utils.constants import HEAP_SIZE , UNDEFINED 
 
   
-// Credits: Based on @parketh max heap implementation (cairo-ds)
+// Credits: Based on @ max heap implementation (cairo-ds)
  
 // Create an empty binary heap.
 // @dev Empty dict entries are initialised at 'null'.
