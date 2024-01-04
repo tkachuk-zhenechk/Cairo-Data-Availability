@@ -451,7 +451,7 @@
                         "offset": 0
                     }
                 },
-                "size": 1,
+                "size": 1, 
                 "type": "struct"
             },
             "starkware.starknet.common.syscalls.GetBlockNumberResponse": {
