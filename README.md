@@ -17,7 +17,7 @@ replace(idx: felt, val: fel
 contains(val: felt)
 size(
 Set
-Methods:
+Methods
 new_set()
 add(val: felt)
 get(idx: felt)
