@@ -144,7 +144,7 @@
                     "prev_value": {
                         "cairo_type": "felt",
                         "offset": 1
-                    }
+                    } 
                 },
                 "size": 3,
                 "type": "struct"
