@@ -11,7 +11,7 @@ func test_create_set_returns_an_empty_set{range_check_ptr}() {
     let set: DictAccess* = new_set();
 
     let set_size_result = size{set=set}();
-    assert set_size_result = 0;
+    assert set_size_result = 0
 
     return();
 }
