@@ -219,7 +219,7 @@
                 "type": "const",
                 "value": -106710729501573572985208420194530329073740042555888586719489
             },
-            "starkware.starknet.common.storage.MAX_STORAGE_ITEM_SIZE": {
+            "starkware.starknet.common.storage. MAX_STORAGE_ITEM_SIZE": {
                 "type": "const",
                 "value": 256
             },
