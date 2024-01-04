@@ -84,7 +84,7 @@ func poll{range_check_ptr, heap: DictAccess*}() -> felt {
     return root;
 }
 
-func contains{range_check_ptr, heap: DictAccess*}(val: felt) -> felt {
+func contains{range_check_ptr, heap:  DictAccess*}(val: felt) -> felt {
     let heap_size = size();
     if (heap_size == 0) {
         return FALSE;
