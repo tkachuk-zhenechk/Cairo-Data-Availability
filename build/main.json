@@ -66,7 +66,7 @@
                         "offset": 2
                     },
                     "r": {
-                        "cairo_type": "starkware.cairo.common.ec_point.EcPoint",
+                        "cairo_type": "starkware.cairo.common.ec_point.EcPoint"
                         "offset": 5
                     }
                 },
