@@ -126,7 +126,7 @@
                         "cairo_type": "felt",
                         "offset": 0
                     }
-                },
+                }
                 "size": 2,
                 "type": "struct"
             },
