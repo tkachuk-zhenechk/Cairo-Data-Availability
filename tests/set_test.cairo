@@ -1,6 +1,6 @@
 %lang starknet
 
-from starkware.cairo.common.bool import TRUE, FALSE
+from starkware.cairo.common.bool import TRUE, FALS
 from starkware.cairo.common.dict_access import DictAcce
 
 from src.set import add, contains, get, new_set, remove, replace, size
