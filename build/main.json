@@ -208,7 +208,7 @@
                 "type": "struct"
             },
             "starkware.cairo.common.math.FALSE": {
-                "destination": "starkware.cairo.common.bool.FALSE",
+                "destination": "starkware.cairo.common.bool.",
                 "type": "alias"
             },
             "starkware.cairo.common.math.TRUE": {
