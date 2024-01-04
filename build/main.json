@@ -17,7 +17,7 @@
         "identifiers": 
             "starkware.cairo.common.bool.FALSE": {
                 "type": "const",
-                "value": 0
+                "value": 
             },
             "starkware.cairo.common.bool.TRUE": {
                 "type": "const",
