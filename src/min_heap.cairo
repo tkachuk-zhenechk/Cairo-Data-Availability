@@ -17,7 +17,7 @@ d
  
 // Create an empty binary heap.
 // @dev Empty dict entries are initialised at 'null'.
-// @return heap : Pointer to empty dictionary containing heap
+// @return heap : Pointer to empty  dictionary containing heap
 func new_heap{range_check_ptr}() -> DictAccess*{
     alloc_locals;
     let (local heap) = default_dict_new(default_value=UNDEFINED);
