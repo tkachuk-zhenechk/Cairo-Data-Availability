@@ -5,7 +5,7 @@ Motivat
 Project serves as a hands-on exploration of Cairo, aiming not only to enhance per sonal understanding of the lag
 age but also to contribute examles of Cairo syntax for oters in the community. While prioritizing simplicity,  I attempt to encapsulate futionality that might complicate users, even if t involves a trade-off, such as aintaining a length variable in a dictionary,  potentially  beingsightly more expensive than  a conventional Cairo implementatio
 
-Implemented Data Structures
+Implemented Data Structures                                                
 Lis
 
 Methods:
