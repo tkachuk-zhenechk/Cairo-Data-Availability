@@ -342,7 +342,7 @@
                         "cairo_type": "felt",
                         "offset": 0
                     }
-                },
+                }
                 "size": 6,
                 "type": "struct"
             },
