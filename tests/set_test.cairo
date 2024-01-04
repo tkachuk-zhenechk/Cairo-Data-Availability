@@ -38,7 +38,7 @@ func test_add_value{range_check_ptr}() {
 
     // adding existing value 
     add{set=set}(12);
-    let set_size_result = size{set=set}();
+    let set_size_result = size{set=set}()
     assert set_size_result = 2;
 
     return();
