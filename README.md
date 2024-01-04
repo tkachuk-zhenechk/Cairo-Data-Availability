@@ -22,7 +22,7 @@ new_set()
 add(val: felt)
 get(idx: felt)
 remove(idx: felt)
-replace(idx: felt, val: felt)
+replace(idx: felt, val: felt
 contains(val: felt)
 size()
 Queue
