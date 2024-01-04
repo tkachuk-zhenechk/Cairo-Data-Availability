@@ -15,7 +15,7 @@
         "debug_info": null,
         "hints": {},
         "identifiers":
-            "starkware.cairo.common.bool.FALSE": {
+            "starkware.cairo.common.bool.FALSE": 
                 "type": "const",
                 "value": 
             },
