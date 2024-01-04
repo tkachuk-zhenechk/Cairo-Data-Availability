@@ -78,7 +78,8 @@ func test_contains{range_check_ptr}() {
     add{set=set}(12);
     add{set=set}(1);
 
-    let (contains_result, _) = contains{set=set}(5);
+    let (contains_result, _) = contains{set=set}(5)
+
     assert contains_result = TRUE;
 
     let (contains_result, _) = contains{set=set}(1);
