@@ -1,7 +1,7 @@
 
 Cairo Data Structures Playground
 Exploring Cairo for implementing basic data structures and experimenting with the language's syntax.
-Motivation
+Motivati
 Project serves as a hands-on exploration of Cairo, aiming not only to enhance personal understanding of the language but also to contribute examples of Cairo syntax for others in the community. While prioritizing simplicity, I attempt to encapsulate functionality that might complicate users, even if t involves a trade-off, such as maintaining a length variable in a dictionary, potentially being slightly more expensive than a conventional Cairo implementation.
 
 Implemented Data Structures
