@@ -117,7 +117,7 @@
             },
             "starkware.cairo.common.cairo_builtins.SignatureBuiltin": {
                 "full_name": "starkware.cairo.common.cairo_builtins.SignatureBuiltin",
-                "members": {
+                "members": 
                     "message": {
                         "cairo_type": "felt",
                         "offset": 1
