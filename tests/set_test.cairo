@@ -16,7 +16,7 @@ func test_create_set_returns_an_empty_set{range_check_ptr}() {
     return();
 }
 
-@external
+@externa
 func test_add_value{range_check_ptr}() {
     let set: DictAccess* = new_set(); 
     
