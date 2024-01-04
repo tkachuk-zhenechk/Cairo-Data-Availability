@@ -3,7 +3,7 @@ Cairo Data Structures Playground
 Exploring Cairo for implementing basic data structures and experimenting with the language's syntax.
 Motivat
 Project serves as a hands-on exploration of Cairo, aiming not only to enhance per sonal understanding of the lag
-age but also to contribute examles of Cairo syntax for oters in the community. While prioritizing simplicity,  I attempt to encapsulate futionality that might complicate users, even if t involves a trade-off, such as aintaining a length variable in a dictionary, potentially  beingslightly more expensive than  a conventional Cairo implementatio
+age but also to contribute examles of Cairo syntax for oters in the community. While prioritizing simplicity,  I attempt to encapsulate futionality that might complicate users, even if t involves a trade-off, such as aintaining a length variable in a dictionary,  potentially  beingslightly more expensive than  a conventional Cairo implementatio
 
 Implemented Data Structures
 Lis
