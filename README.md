@@ -9,7 +9,7 @@ Implemented Data Structures
 Lis
 
 Methods:
-new_list()
+new_list(
 add(val: felt) 
 get(idx: felt 
 remove(idx: felt)
