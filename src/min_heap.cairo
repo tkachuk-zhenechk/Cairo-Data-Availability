@@ -1,7 +1,7 @@
 %lang starknet
 
 from starkware.cairo.common.bool import TRUE, FALSE
-from starkware.cairo.common.dict_access import DictAccess
+from starkware.cairo.common.dict_access import  DictAccess
 from starkware.cairo.common.math_cmp import is_le
 from starkware.cairo.common.math import unsigned_div_rem
 from src.utils.comparator import is_g, is_ge, is_l, _and
