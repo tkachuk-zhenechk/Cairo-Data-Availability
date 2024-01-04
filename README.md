@@ -32,7 +32,7 @@ add(val: felt)
 peek()
 poll()
 size()
-Minimum Heap
+Minimum Hea
 Metho
 new_heap( 
 add(val: felt)
