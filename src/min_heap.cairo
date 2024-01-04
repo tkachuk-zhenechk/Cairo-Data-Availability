@@ -15,7 +15,7 @@ d
   
 // Credits: Based on @ max heap implementation (cairo-ds)
  
-// Create an empty binary heap.
+// Create an empty binary  heap.
 // @dev Empty dict entries are initialised at 'null'.
 // @return heap : Pointer to empty  dictionary containing heap
 func new_heap{range_check_ptr}() -> DictAccess*{
