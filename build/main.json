@@ -12,7 +12,7 @@
         ]
         "compiler_version": "0.10.",
         "data": [
-        "debug_info": null,
+        "debug_info": nul,
         "hints": {},
         "identifiers":
             "starkware.cairo.common.bool.FALSE":
