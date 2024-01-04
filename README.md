@@ -34,7 +34,7 @@ poll()
 size()
 Minimum Heap
 Method
-new_heap(
+new_heap( 
 add(val: felt)
 peek()
 poll()
