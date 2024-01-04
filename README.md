@@ -37,7 +37,7 @@ Minimum Hea
 Metho
 new_heap( 
 add(val: felt)
-peek()
+peek(
 poll()
 contains(val: felt)
 size()
