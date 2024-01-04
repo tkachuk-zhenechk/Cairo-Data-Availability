@@ -19,7 +19,7 @@
                 "type": "const",
                 "value": 
             
-            "starkware.cairo.common.bool.TRUE" {
+            "starkware.cairo.common.bool.TRUE {
                 "tpe": "const",
                 "value": 1
             },
