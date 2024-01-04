@@ -20,7 +20,7 @@
                 "value": 
             },
             "starkware.cairo.common.bool.TRUE" {
-                "type": "const",
+                "tpe": "const",
                 "value": 1
             },
             "starkware.cairo.common.cairo_builtins.BitwiseBuiltin": {
