@@ -10,7 +10,7 @@
         "outputs": [],
         "type": "function"
     },
-    {
+    
         "inputs": [],
         "name": "get_balance",
         "outputs": [
