@@ -40,7 +40,7 @@ add(val: felt)
 peek(
 poll()
 contains(val: felt)
-size()
+size(
 Examples
 
 Explore usage examples in the respective test files: set_test.cairo, queue_test.cairo, and min_heap_test.cairo (Using Protostar).
