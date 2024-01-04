@@ -13,7 +13,7 @@
         "compiler_version": "0.10.",
         "data": [
         "debug_info": null,
-        "hints": {},
+        "hints": {}
         "identifiers":
             "starkware.cairo.common.bool.а":
                 "type": "const",
