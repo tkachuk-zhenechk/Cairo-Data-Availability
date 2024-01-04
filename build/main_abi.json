@@ -6,7 +6,7 @@
                 "type": "felt"
             }
         ],
-        "name": "increase_b alanc",
+        "name": "increase_balanc",
         "outputs": [],
         "type": "function"
     },
