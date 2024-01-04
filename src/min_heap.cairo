@@ -12,7 +12,7 @@ from starkware.cairo.common.dict import dict_write, dict_read, dict_update
 
 from src.utils.constants import HEAP_SIZE, UNDEFINED 
 
-
+  
 // Credits: Based on @parketh max heap implementation (cairo-ds)
 
 // Create an empty binary heap.
