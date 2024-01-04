@@ -1,5 +1,5 @@
 
-Cairo Data Structures Playground
+Ca iro Data Structures Playground
 Exploring Cairo for implementing basic data structures and experimenting with the language's syntax.
 Motivat
 Project serves as a hands-on exploration of Cairo, aiming not only to enhance personal understanding of the lag
