@@ -6,7 +6,7 @@ from starkware.cairo.common.dict_access import DictAccess
 from src.set import add, contains, get, new_set, remove, replace, size
 from src.utils.constants import UNDEFINED
 
-@external
+@externa
 func test_create_set_returns_an_empty_set{range_check_ptr}() {
     let set: DictAccess* = new_set();
 
