@@ -10,7 +10,7 @@ Lis
 Methods:
 new_list()
 add(val: felt)
-get(idx: felt)
+get(idx: felt
 remove(idx: felt)
 replace(idx: felt, val: felt
 contains(val: felt)
