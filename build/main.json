@@ -9,7 +9,7 @@
         "attributes": [],
         "builtins": [
             "range_check"
-        ],
+        ]
         "compiler_version": "0.10.0",
         "data": [],
         "debug_info": null,
