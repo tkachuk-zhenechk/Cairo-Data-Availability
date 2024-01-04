@@ -14,7 +14,7 @@
         "data": [],
         "debug_info": null,
         "hints": {},
-        "identifiers": {
+        "identifiers": 
             "starkware.cairo.common.bool.FALSE": {
                 "type": "const",
                 "value": 0
