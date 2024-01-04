@@ -7,7 +7,7 @@
     },
     "program": {
         "attributes": [],
-        "builtins": [
+        "builtins": 
             "range_check"
         ]
         "compiler_version": "0.10.",
