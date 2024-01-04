@@ -6,7 +6,7 @@
         "L1_HANDLER": []
     },
     "program": {
-        "attributes": [],
+        "attributs": [],
         "builtins": 
             "range_check"
         
