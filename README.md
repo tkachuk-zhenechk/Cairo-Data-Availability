@@ -15,7 +15,7 @@ get(idx: felt
 remove(idx: felt)
 replace(idx: felt, val: fel
 contains(val: felt)
-size()
+size(
 Set
 Methods:
 new_set()
